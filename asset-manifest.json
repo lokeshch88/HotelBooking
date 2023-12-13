@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HotelBooking/static/css/main.48158e3b.css",
+    "main.js": "/HotelBooking/static/js/main.7c5eb874.js",
+    "static/js/787.55f0eb4b.chunk.js": "/HotelBooking/static/js/787.55f0eb4b.chunk.js",
+    "static/media/Booking_landing_page_banner.jpg": "/HotelBooking/static/media/Booking_landing_page_banner.f0aa3f51b6b6bfb9309d.jpg",
+    "static/media/banner1.jpg": "/HotelBooking/static/media/banner1.87f6b684259932354a9e.jpg",
+    "static/media/logo3.jpg": "/HotelBooking/static/media/logo3.3e968256cd0335c293f4.jpg",
+    "static/media/star.png": "/HotelBooking/static/media/star.8199a143596837aeb5b1.png",
+    "index.html": "/HotelBooking/index.html",
+    "main.48158e3b.css.map": "/HotelBooking/static/css/main.48158e3b.css.map",
+    "main.7c5eb874.js.map": "/HotelBooking/static/js/main.7c5eb874.js.map",
+    "787.55f0eb4b.chunk.js.map": "/HotelBooking/static/js/787.55f0eb4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48158e3b.css",
+    "static/js/main.7c5eb874.js"
+  ]
+}
